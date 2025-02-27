@@ -1,1 +1,45 @@
 # front_curso2025m
+toda la descripcion del proyecto
+
+## integrantes
+  * integrante 1
+  * integrante 2
+  * integrante 3
+
+# toda la informacion para compilar el proyecto
+Inicializar el Proyecto
+Ejecuta este comando en tu terminal para crear un nuevo proyecto Vue 3 con Vite:
+npm create vite@latest nombre_proyecto --template vue
+ 
+Luego, entra en la carpeta del proyecto:
+cd nombre_proyecto
+ 
+Instalar Dependencias Esenciales
+Instala Vue Router, Pinia y Axios:
+npm install vue-router pinia axios
+ 
+Ejecutar el Proyecto
+Para iniciar el servidor de desarrollo, ejecuta:
+npm run dev
+ 
+________________________________________________________________________________________________
+Uso de git y Github
+1- Para saber el estado de los documentos modificados o creados se usa: 
+git status
+ 
+verificar que los archivos que edito esten corregidos
+ 
+2- use el siguiente comando para agregar el contenido que esta en estatus al repo:
+git add .
+ 
+3 cree el comentario de lo que hizo teniendo en cuenta:
+fix: para modificaciones o correcciones
+feat: para describir si creo nuevo codigo en el repo
+ 
+git commit -a -m "fix: o Feat: descripcion de lo que hizo"
+ 
+ 
+4 para terminar recuerde actualizar el repositorio usando el comando:
+ 
+git push
+ 
