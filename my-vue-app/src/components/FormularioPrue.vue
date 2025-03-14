@@ -12,7 +12,7 @@
             <option value="mujer">Mujer</option>
         </select>
         <label>
-            <input type="checkbox" name="terminos"> Acepto los t´erminos y condiciones
+            <input type="checkbox" name="terminos"> Acepto los terminos y condiciones
         </label>
         <button type="submit">Enviar</button>
     </form>
